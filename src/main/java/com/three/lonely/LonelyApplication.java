@@ -3,6 +3,10 @@ package com.three.lonely;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ *
+ * @author 你微笑时很美
+ */
 @SpringBootApplication
 public class LonelyApplication {
 
