@@ -16,12 +16,12 @@ import javax.persistence.Entity;
 public class User {
 
     private Integer id;
-
     private String userName;
     private String userPhone;
     private String userSex;
     private String userImage;
     private String userBirthday;
-
+    private String updateTime;
+    private Integer deleted;
 
 }
